@@ -1,1 +1,1 @@
-Sitemap: https://abhicantdraw.github.io/fastpage/sitemap.xml
+Sitemap: https://abhicantdraw.github.io/home/sitemap.xml
